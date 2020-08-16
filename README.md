@@ -1,18 +1,12 @@
 # Hi I'm Munaf 👋
-[![Website Badge](https://img.shields.io/badge/-munafio.com-000000?&style=flat-square&logoColor=white&link=https://munafio.com/)](https://munafio.com/)
-[![Instagram Badge](https://img.shields.io/badge/-munafio-c14438?style=flat&labelColor=ffc1bb&logo=Instagram&link=https://instagram.com/munafio)](https://instagram.com/munafio)
-[![Youtube Badge](https://img.shields.io/badge/-munafio-ff0000?style=flat&logo=Youtube&logoColor=white&link=https://youtube.com/munafio)](https://youtube.com/munafio)
-[![Facebook Badge](https://img.shields.io/badge/-munafio-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/munafio)](https://www.facebook.com/munafio)
-
-
-Welcome to my profile! I'm a Full-Stack web developer from Iraq-Babil. Thanks for visiting and I'd love to [connect](https://www.instagram.com/munafio)!
-
-
-
-
+Welcome to my profile! I'm a Full-Stack web developer from Iraq-Babil. Thanks for visiting and I'd love to connect!
+<!--Website -->
+[<img width="28px" src="https://raw.githubusercontent.com/munafaqeelmahdi/munafaqeelmahdi.github.io/f176f4f76e75970a486c88fcd814bac6904acb61/infinity.svg" />](https://munafio.com/)
+[<img width="28px" src="https://raw.githubusercontent.com/munafaqeelmahdi/munafaqeelmahdi.github.io/328246e17c2c0b076ecab2b02f37a86a105821ef/instagram%20(1).svg" />](https://instagram.com/munafio)
+[<img width="28px" src="https://raw.githubusercontent.com/munafaqeelmahdi/munafaqeelmahdi.github.io/328246e17c2c0b076ecab2b02f37a86a105821ef/facebook.svg" />](https://facebook.com/munafio)
+[<img width="28px" src="https://raw.githubusercontent.com/munafaqeelmahdi/munafaqeelmahdi.github.io/328246e17c2c0b076ecab2b02f37a86a105821ef/twitter.svg" />](https://twitter.com/munaf_aqeel_m)
+[<img width="28px" src="https://raw.githubusercontent.com/munafaqeelmahdi/munafaqeelmahdi.github.io/328246e17c2c0b076ecab2b02f37a86a105821ef/youtube.svg" />](https://youtube.com/munafio)
 
 ![Munaf's github stats](https://github-readme-stats.vercel.app/api?username=munafio&show_icons=true)
-
-
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=munafio.munafio)
