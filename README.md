@@ -11,8 +11,5 @@ Welcome to my profile! I'm a Full-Stack web developer from Iraq-Babil. Thanks fo
 
 ![Munaf's github stats](https://github-readme-stats.vercel.app/api?username=munafio&show_icons=true)
 
-<div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-
-</div>
