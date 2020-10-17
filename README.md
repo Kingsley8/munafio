@@ -1,11 +1,21 @@
 # Hi I'm Munaf 👋
 Welcome to my profile! I'm a Full-Stack web developer from Iraq-Babil. Thanks for visiting and I'd love to connect!
 <!--Website -->
-[<img width="28px" src="https://raw.githubusercontent.com/munafaqeelmahdi/munafaqeelmahdi.github.io/328246e17c2c0b076ecab2b02f37a86a105821ef/instagram%20(1).svg" />](https://instagram.com/munafio)&nbsp;&nbsp;
-[<img width="28px" src="https://raw.githubusercontent.com/munafaqeelmahdi/munafaqeelmahdi.github.io/328246e17c2c0b076ecab2b02f37a86a105821ef/facebook.svg" />](https://facebook.com/munafio)&nbsp;&nbsp;
-[<img width="28px" src="https://raw.githubusercontent.com/munafaqeelmahdi/munafaqeelmahdi.github.io/328246e17c2c0b076ecab2b02f37a86a105821ef/twitter.svg" />](https://twitter.com/munafiofficial)&nbsp;&nbsp;
-[<img width="28px" src="https://raw.githubusercontent.com/munafaqeelmahdi/munafaqeelmahdi.github.io/328246e17c2c0b076ecab2b02f37a86a105821ef/youtube.svg" />](https://youtube.com/munafio)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/munafio)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/munafio)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://munafio.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/munafiofficial)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/munafio/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/munafio)
+
 
 ![Munaf's github stats](https://github-readme-stats.vercel.app/api?username=munafio&show_icons=true)
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=munafio.munafio)
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
