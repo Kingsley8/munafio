@@ -1,9 +1,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://munafio.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/munafio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/munafio)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/munafiofficial)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/munafio/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/munafio)
 
 ```javascript
 import SoftwareDeveloper from 'munafio';
