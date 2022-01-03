@@ -10,7 +10,7 @@ import { Languages, Frameworks } from 'munafio/skills';
 class Bio extends SoftwareDeveloper {
   name     = 'Munaf Aqeel Mahdi';
   title    = 'Senior Software Developer';
-  company  = 'AppChief | Remote';
+  company  = 'HRiNS Telecom';
   location = 'Babil, IQ';
 }
 
